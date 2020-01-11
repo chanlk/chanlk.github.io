@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>未归档 on Orianna</title>
+    <link>https://chanlk.github.io/categories/%E6%9C%AA%E5%BD%92%E6%A1%A3/</link>
+    <description>Recent content in 未归档 on Orianna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Wed, 01 Aug 2018 10:23:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://chanlk.github.io/categories/%E6%9C%AA%E5%BD%92%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>前端试水(1) 前端技术路线</title>
+      <link>https://chanlk.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</link>
+      <pubDate>Wed, 01 Aug 2018 10:23:48 +0800</pubDate>
+      
+      <guid>https://chanlk.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</guid>
+      <description>第一次写博客 第一次写博客博客博客 ​</description>
+    </item>
+    
+  </channel>
+</rss>
