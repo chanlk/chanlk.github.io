@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 18 Aug 2018 20:14:59 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 10:23:48 +0800</lastBuildDate>
     
 	<atom:link href="https://chanlk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>java</title>
+      <link>https://chanlk.github.io/categories/java/</link>
+      <pubDate>Thu, 09 Jan 2020 10:23:48 +0800</pubDate>
+      
+      <guid>https://chanlk.github.io/categories/java/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>杂技浅尝</title>

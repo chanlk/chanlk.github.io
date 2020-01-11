@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chanlk.github.io/categories/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/categories/java/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/tags/java/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/tags/jvm/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/series/jvm/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/series/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/tags/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/blog/2020-01/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3class%E6%96%87%E4%BB%B6%E5%8F%8A%E5%85%B6%E5%9C%A8jvm%E7%9A%84%E8%A1%A8%E7%8E%B0/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chanlk.github.io/blog/</loc>
     <lastmod>2018-09-13T22:31:21+08:00</lastmod>
   </url>
@@ -28,27 +73,7 @@
   </url>
   
   <url>
-    <loc>https://chanlk.github.io/categories/</loc>
-    <lastmod>2018-08-18T20:14:59+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chanlk.github.io/tags/js/</loc>
-    <lastmod>2018-08-18T20:14:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/</loc>
-    <lastmod>2018-08-18T20:14:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/series/</loc>
-    <lastmod>2018-08-18T20:14:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/tags/</loc>
     <lastmod>2018-08-18T20:14:59+08:00</lastmod>
   </url>
   
@@ -120,21 +145,6 @@
   <url>
     <loc>https://chanlk.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/tags/java/</loc>
-    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/tags/jvm/</loc>
-    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</loc>
-    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -6,10 +6,19 @@
     <description>Recent content in Series on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 18 Aug 2018 20:14:59 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 10:23:48 +0800</lastBuildDate>
     
 	<atom:link href="https://chanlk.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>jvm</title>
+      <link>https://chanlk.github.io/series/jvm/</link>
+      <pubDate>Thu, 09 Jan 2020 10:23:48 +0800</pubDate>
+      
+      <guid>https://chanlk.github.io/series/jvm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog养成记</title>
