@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>未归档 on Orianna</title>
-    <link>https://chanlk.github.io/categories/%E6%9C%AA%E5%BD%92%E6%A1%A3/</link>
-    <description>Recent content in 未归档 on Orianna</description>
+    <title>java on Orianna</title>
+    <link>https://chanlk.github.io/tags/java/</link>
+    <description>Recent content in java on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Wed, 01 Aug 2018 10:23:48 +0800</lastBuildDate>
     
-	<atom:link href="https://chanlk.github.io/categories/%E6%9C%AA%E5%BD%92%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chanlk.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://chanlk.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</guid>
       <description>深入理解Class文件及其在JVM的表现 ​ 对于理解JVM和深入理解Java语言， 学习并了解class文件的格式都是必须要掌握的功课。 原因很简单， JVM不会理解我们写的Java源文件， 我们必须把Java源文件编译成class文件， 才能被JVM识别， 对于JVM而言， class文件相当于一个接口， 理解了这个接口， 能帮助我们更好的理解JVM的行为；另一方面， class文件以另一种方式重新描述了我们在源文件</description>
-    </item>
-    
-    <item>
-      <title>前端试水(1) 前端技术路线</title>
-      <link>https://chanlk.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</link>
-      <pubDate>Wed, 01 Aug 2018 10:23:48 +0800</pubDate>
-      
-      <guid>https://chanlk.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</guid>
-      <description>第一次写博客 第一次写博客博客博客 ​</description>
     </item>
     
   </channel>
