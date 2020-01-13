@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chanlk.github.io/blog/</loc>
-    <lastmod>2020-01-09T10:23:48+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chanlk.github.io/categories/</loc>
     <lastmod>2020-01-09T10:23:48+08:00</lastmod>
   </url>
@@ -23,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://chanlk.github.io/tags/jvm/</loc>
+    <loc>https://chanlk.github.io/series/jvm/</loc>
     <lastmod>2020-01-09T10:23:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chanlk.github.io/series/jvm/</loc>
+    <loc>https://chanlk.github.io/tags/jvm/</loc>
     <lastmod>2020-01-09T10:23:48+08:00</lastmod>
   </url>
   
@@ -53,8 +48,18 @@
   </url>
   
   <url>
-    <loc>https://chanlk.github.io/blog/2019-09/blog/</loc>
+    <loc>https://chanlk.github.io/blog/</loc>
     <lastmod>2019-09-13T22:31:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/about/</loc>
+    <lastmod>2019-08-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chanlk.github.io/about/resume/</loc>
+    <lastmod>2019-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
@@ -265,16 +270,6 @@
   <url>
     <loc>https://chanlk.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2018-01-30T15:04:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/about/asd/</loc>
-    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chanlk.github.io/about/</loc>
-    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
