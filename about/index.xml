@@ -11,14 +11,5 @@
 	<atom:link href="https://chanlk.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>resume</title>
-      <link>https://chanlk.github.io/about/resume/</link>
-      <pubDate>Mon, 19 Aug 2019 20:29:37 -0700</pubDate>
-      
-      <guid>https://chanlk.github.io/about/resume/</guid>
-      <description>Name : Chen Hanzhen Sex : Man Age :24 Education: Kunming University of Technology Career: A Back end devloper Working at 深圳市爱为智能科技有限公司 Skills: JAVA , HTML AND SO ON;</description>
-    </item>
-    
   </channel>
 </rss>
