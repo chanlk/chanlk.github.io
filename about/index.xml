@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Orianna</title>
+    <title>Abouts on Orianna</title>
     <link>https://chanlk.github.io/about/</link>
-    <description>Recent content in About on Orianna</description>
+    <description>Recent content in Abouts on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sun, 02 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2015 20:29:37 -0700</lastBuildDate>
     
 	<atom:link href="https://chanlk.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>abountas~</title>
+      <link>https://chanlk.github.io/about/asd/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://chanlk.github.io/about/asd/</guid>
+      <description>abount~~~~~~~~</description>
+    </item>
     
   </channel>
 </rss>
